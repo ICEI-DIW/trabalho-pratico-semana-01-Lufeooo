@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Luis Felipe Meireles de Almeida
+Matricula: 891005
 
 ## Tela de inspeção com navegador
 
+![alt text](i_1.png)
 
 ## Tela de projeto no Replit
+
+![alt text](i_2.png)
 
